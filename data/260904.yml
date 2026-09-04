@@ -7,7 +7,7 @@ about:
   head: 7b91435
   archived: false
   latestVersion: v3.18.0-alpha.0
-  collectedAt: 2026-09-04T20:03:50Z
+  collectedAt: 2026-09-04T20:37:18Z
 timeline:
   created: 2022-08-03
   lastCommit: 2026-07-02
@@ -87,7 +87,7 @@ total:
   commit: 955
 ---
 path: /home/runner/.x-repo/github.com/motion-canvas/motion-canvas
-collectedAt: 2026-09-04T20:03:51Z
+collectedAt: 2026-09-04T20:37:19Z
 loc:
   Json:
     code: 44186
