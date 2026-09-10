@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.18.0-alpha.0"
   latestRelease: "v3.17.2"
   latestPrerelease: "v3.18.0-alpha.0"
-  collectedAt: 2026-09-10T18:19:58Z
+  collectedAt: 2026-09-10T23:38:10Z
 timeline:
   created: 2022-08-03
   lastCommit: 2026-07-02
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2024-12-14
   lastPrerelease: 2025-02-16
 popularity:
-  star: 19087
+  star: 19088
   watcher: 90
   fork: 816
   release: 94
@@ -89,7 +89,7 @@ total:
   commit: 955
 ---
 path: /home/runner/.x-repo/github.com/motion-canvas/motion-canvas
-collectedAt: 2026-09-10T18:20:00Z
+collectedAt: 2026-09-10T23:38:12Z
 loc:
   Json:
     code: 44186
