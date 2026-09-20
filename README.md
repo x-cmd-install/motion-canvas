@@ -4,7 +4,7 @@
 
 Visualize Your Ideas With Code
 
-![motion-canvas](https://repo.x-cmd.io/motion-canvas.svg)
+[![x-cmd/install — motion-canvas Code Quality Monitoring Repo Card](https://repo.x-cmd.io/motion-canvas.svg)](https://x-cmd.com/install/motion-canvas)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **85,565** lines of code across **843** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 19,123 · **Forks**: 819 · **Open issues**: 442 · **Contributors**: 96
+- **Stars**: 19,129 · **Forks**: 821 · **Open issues**: 442 · **Contributors**: 96
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **85,565** lines of code across **843** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 2 | 0 | 2 | 0 |
-| 90d | 2026-06-20 | 0 | 1 | 2 | 1 | 2 | 1 |
-| last180d | 2026-03-22 | 0 | 1 | 2 | 1 | 2 | 1 |
-| 360d | 2025-09-23 | 0 | 1 | 4 | 2 | 8 | 1 |
-| last720d | 2024-09-28 | 2 | 20 | 16 | 16 | 56 | 24 |
+| 30d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 2 | 0 | 2 | 0 |
+| 90d | 2026-06-22 | 0 | 1 | 2 | 1 | 2 | 1 |
+| last180d | 2026-03-24 | 0 | 1 | 2 | 1 | 2 | 1 |
+| 360d | 2025-09-25 | 0 | 1 | 4 | 1 | 8 | 1 |
+| last720d | 2024-09-30 | 2 | 20 | 16 | 15 | 55 | 24 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for motion-canvas lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:36:27Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:23:21Z._
