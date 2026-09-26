@@ -37,7 +37,7 @@ Total: **85,565** lines of code across **843** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 19,171 · **Forks**: 826 · **Open issues**: 442 · **Contributors**: 96
+- **Stars**: 19,174 · **Forks**: 827 · **Open issues**: 442 · **Contributors**: 96
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **85,565** lines of code across **843** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-27 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 90d | 2026-06-27 | 0 | 1 | 2 | 1 | 2 | 1 |
-| last180d | 2026-03-29 | 0 | 1 | 2 | 1 | 2 | 1 |
-| 360d | 2025-09-30 | 0 | 1 | 4 | 1 | 8 | 1 |
-| last720d | 2024-10-05 | 2 | 20 | 16 | 15 | 54 | 24 |
+| 30d | 2026-08-27 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-28 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 90d | 2026-06-28 | 0 | 1 | 2 | 1 | 2 | 1 |
+| last180d | 2026-03-30 | 0 | 1 | 2 | 1 | 2 | 1 |
+| 360d | 2025-10-01 | 0 | 1 | 4 | 1 | 8 | 1 |
+| last720d | 2024-10-06 | 2 | 17 | 16 | 15 | 54 | 24 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for motion-canvas lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:09:31Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T06:07:54Z._
